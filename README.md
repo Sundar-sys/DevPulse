@@ -1,13 +1,15 @@
 ## DevPulse 🚀
 An interactive developer portfolio and live productivity suite built with modern glassmorphism and micro-interactions.
-----
+
 
 ## 🌟 Overview
 DevPulse merges a sleek developer portfolio with a live, embedded task-management micro-app. Instead of showcasing static screenshots, DevPulse gives visitors an immediate, hands-on demonstration of UI/UX capabilities right inside the browser.
 
 Built around a futuristic midnight dark mode and glassmorphic UI, the application prioritizes smooth user interaction, physics-based animations, and real-time state persistence.
----
+
+
 ## ✨ Key Features
+
 ## 🌐 Portfolio Engine
 - Dynamic Hero Section: Features animated gradient glows, magnetic CTA buttons, and fluid entry animations.
 
