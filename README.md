@@ -1,4 +1,4 @@
-## DevPulse 🚀
+# DevPulse 🚀
 An interactive developer portfolio and live productivity suite built with modern glassmorphism and micro-interactions.
 
 
@@ -39,6 +39,7 @@ Built around a futuristic midnight dark mode and glassmorphic UI, the applicatio
 
 ## 📂 Project Structure
 Plaintext
+```
 devpulse/
 ├── assets/
 │   ├── images/          # Project screenshots, avatars, and graphics
@@ -53,25 +54,28 @@ devpulse/
 ├── index.html           # Main application entry point
 ├── LICENSE              # MIT License
 └── README.md            # Project documentation
-🚀 Getting Started
+```
+
+## 🚀 Getting Started
 To run DevPulse locally on your machine:
 
 Clone the repository:
 
-Bash
+```Bash
 git clone https://github.com/YOUR_USERNAME/devpulse.git
 Navigate into the project directory:
-
-Bash
+```
+```Bash
 cd devpulse
 Launch the application:
-
+```
 Open index.html directly in your browser.
 
 Or use a local development server like Live Server in VS Code for hot reloading:
 
-Bash
+```Bash
 npx live-server
+```
 ## ⚙️ Customization
 - Update Personal Info: Open index.html and replace placeholder headlines, bio copy, and social links with your own credentials.
 
