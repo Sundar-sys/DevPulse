@@ -7,9 +7,11 @@ Built with **TanStack Start**, **React**, **TypeScript**, and **Tailwind CSS**, 
 ---
 <img width="1822" height="873" alt="Screenshot 2026-08-05 143226" src="https://github.com/user-attachments/assets/090f59e0-1a24-4620-b126-337759f3c9e0" />
 ---
----
+
+
+## 🎭DevPulse Video
+
 https://github.com/user-attachments/assets/a6e03a45-3be4-4dc5-80a7-9e83163ac2b4
----
 
 
 
